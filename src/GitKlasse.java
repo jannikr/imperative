@@ -1,4 +1,3 @@
-package personen;
 
 public class GitKlasse {
 
